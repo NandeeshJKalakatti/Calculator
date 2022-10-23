@@ -5,7 +5,8 @@ At first you have creat react naive Environment  by seeing the react native webs
 
 # installing
 npm install
-#building apk file is
+# building apk file is
 expo build:android
+#
 this will creat an apk as URL then you can download
 make sure that you have loged in to the expo 
